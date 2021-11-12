@@ -17,7 +17,7 @@ Inside the theme you will find a pandacorp.zip file which contains the assets yo
 
 
 ### What we are looking for
-* Editable content
+* Editable content (preferably via Gutenberg)
 * Use of wp_nav_menu()
 * Option to upload custom logo.
 * No use of 3. party themes or pagebuilder plugins
