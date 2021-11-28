@@ -17,10 +17,11 @@ Inside the theme you will find a pandacorp.zip file which contains the assets yo
 
 
 ### What we are looking for
-* Editable content (preferably via Gutenberg)
-* Use of wp_nav_menu()
-* Option to upload custom logo.
-* No use of 3. party themes or pagebuilder plugins
+* How you will solve the mobile and tablet version
+* Flexible editable content (preferably via Gutenberg)
+* Use of WordPress core functions wp_nav_menu, enqueue_scripts, theme.json etc.
+* Option to upload custom logo (preferably via wp_customizer).
+* No use of 3. party themes or plugins
 * No use of 3. party frameworks (jQuery/Bootstrap/etc.)
 * Well documented code
 * Well structured
