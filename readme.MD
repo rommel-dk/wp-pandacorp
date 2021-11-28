@@ -21,7 +21,9 @@ Inside the theme you will find a pandacorp.zip file which contains the assets yo
 * Use of wp_nav_menu()
 * Option to upload custom logo.
 * No use of 3. party themes or pagebuilder plugins
+* No use of 3. party frameworks (jQuery/Bootstrap/etc.)
 * Well documented code
+* Well structured
 
 
 Good luck and have fun making our awesome Panda website! 
